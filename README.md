@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm an AI Engineer 👋
 
-<!--
-**Fatima-alharake/Fatima-alharake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer interested in building intelligent systems across a wide range of AI domains.
 
-Here are some ideas to get you started:
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🧠 **Large Language Models (LLMs) & Generative AI**
+* 👁️ **Computer Vision**
+* 📊 **Data Analysis & Data Science**
+* 🧩 **AI Agents & Multimodal AI**
+* 🦾 **Physical AI & Robotics** — combining AI with robots and real-world systems
+* ⚙️ **MLOps & AI Deployment** — turning models into reliable, production-ready applications
+
+I'm particularly interested in exploring how different AI technologies can work together to solve **real-world problems**.
+
+## 🚀 What I'm Working On
+
+I'm constantly learning, experimenting, and building projects around AI, from LLM-powered applications and computer vision systems to data-driven solutions and robotics.
+
+## 📚 Always Learning
+
+AI is evolving quickly, so I'm always exploring new models, tools, techniques, and ideas, and turning what I learn into projects.
+
