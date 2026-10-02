@@ -9,8 +9,8 @@ My interests include:
 * 👁️ **Computer Vision**
 * 📊 **Data Analysis & Data Science**
 * 🧩 **AI Agents & Multimodal AI**
-* 🦾 **Physical AI & Robotics** — combining AI with robots and real-world systems
-* ⚙️ **MLOps & AI Deployment** — turning models into reliable, production-ready applications
+* 🦾 **Physical AI & Robotics** : combining AI with robots and real-world systems
+* ⚙️ **MLOps & AI Deployment** : turning models into reliable, production-ready applications
 
 I'm particularly interested in exploring how different AI technologies can work together to solve **real-world problems**.
 
